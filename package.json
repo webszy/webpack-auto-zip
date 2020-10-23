@@ -1,0 +1,26 @@
+{
+  "name": "webpack-auto-zip",
+  "version": "1.0.0",
+  "description": "provide a webpack plugin then zip your file after compile done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webszy/webpack-after-done.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "webszy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webszy/webpack-after-done/issues"
+  },
+  "homepage": "https://github.com/webszy/webpack-after-done#readme",
+  "dependencies": {
+    "jszip": "^3.5.0"
+  }
+}
