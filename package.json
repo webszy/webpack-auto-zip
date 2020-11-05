@@ -1,6 +1,6 @@
 {
   "name": "webpack-auto-zip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "provide a webpack plugin then zip your file after compile done",
   "main": "index.js",
   "scripts": {
